@@ -1,0 +1,15 @@
+{
+    "name": "Bộ chăm sóc vườn",
+    "description": "Bộ mở rộng chăm sóc vườn",
+    "libs": [
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {
+        "en": "languages/en.js",
+        "vi": "languages/vi.js"
+    },
+    "poster": "poster.jpg"
+}
