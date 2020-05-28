@@ -11,15 +11,15 @@ Blockly.Blocks['block_plant_sensor'] = {
             "name": "NAME",
             "options": [
               [
-                "pin0",
+                "P0",
                 "pin0"
               ],
               [
-                "pin1",
+                "P1",
                 "pin1"
               ],
               [
-                "pin2",
+                "P3",
                 "pin2"
               ]
             ]
