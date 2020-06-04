@@ -1,6 +1,6 @@
 {
-    "name": "Bộ chăm sóc vườn",
-    "description": "Bộ mở rộng chăm sóc vườn",
+    "name": "PLANT:BIT",
+    "description": "Mục mở rộng cho bộ tưới nước thông minh",
     "libs": [
     ],
     "blocks": [
