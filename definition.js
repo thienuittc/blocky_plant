@@ -79,6 +79,10 @@ Blockly.Blocks['block_plant_motor'] = {
               [
                 "P2",
                 "pin2"
+              ],
+              [
+                "P3",
+                "pin3"
               ]
             ]
           }
