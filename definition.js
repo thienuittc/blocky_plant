@@ -37,7 +37,7 @@ Blockly.Python['block_plant_sensor'] = function(block) {
   Blockly.Python.definitions_['import_yolobit'] = 'from yolobit import *';
   var dropdown_name = block.getFieldValue('NAME');
   // TODO: Assemble Python into code variable.
-  var code = 'round(('+dropdown_name+'.read_analog()/4 -1)/10.23)';
+  var code = '100 - round(('+dropdown_name+'.read_analog()/4 -1)/10.23)';
   // TODO: Change ORDER_NONE to the correct strength.
   return [code, Blockly.Python.ORDER_NONE];
 };
